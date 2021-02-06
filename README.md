@@ -1,5 +1,6 @@
 ### Hi there 👋
 初心者です。分からないところはぜひ教えてください。
+このファイルを.jsに変換したいのですが、その方法をぜひ教えてください。
 <!--
 **100old/100old** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
